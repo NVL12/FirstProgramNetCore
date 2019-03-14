@@ -7,3 +7,12 @@ D:\Thuctap-tcx\dotNET_CORE\FirstProgramDotNetCoreMVC\ProjectSP\obj\Debug\netcore
 D:\Thuctap-tcx\dotNET_CORE\FirstProgramDotNetCoreMVC\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.AssemblyInfo.cs
 D:\Thuctap-tcx\dotNET_CORE\FirstProgramDotNetCoreMVC\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.dll
 D:\Thuctap-tcx\dotNET_CORE\FirstProgramDotNetCoreMVC\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.pdb
+D:\git\FirstProgramNetCore\ProjectSP\bin\Debug\netcoreapp2.1\ProjectSP.deps.json
+D:\git\FirstProgramNetCore\ProjectSP\bin\Debug\netcoreapp2.1\ProjectSP.dll
+D:\git\FirstProgramNetCore\ProjectSP\bin\Debug\netcoreapp2.1\ProjectSP.pdb
+D:\git\FirstProgramNetCore\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.csprojAssemblyReference.cache
+D:\git\FirstProgramNetCore\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.csproj.CoreCompileInputs.cache
+D:\git\FirstProgramNetCore\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.AssemblyInfoInputs.cache
+D:\git\FirstProgramNetCore\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.AssemblyInfo.cs
+D:\git\FirstProgramNetCore\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.dll
+D:\git\FirstProgramNetCore\ProjectSP\obj\Debug\netcoreapp2.1\ProjectSP.pdb

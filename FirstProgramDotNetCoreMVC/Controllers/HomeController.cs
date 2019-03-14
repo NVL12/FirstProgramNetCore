@@ -27,12 +27,11 @@ namespace FirstProgramDotNetCoreMVC.Controllers
         public ViewResult Notification(Employee e)
         {
             if (ModelState.IsValid)
-            {                
-                e.Name = Request.Form["Name"];
-                e.Salary = Convert.ToDouble(Request.Form["Salary"]);
+            {
+                Repository.AddEmployee(e);
                 double totalSalary = _employeeManage.TotalSalary(e);
                 ViewBag.totalSalary = totalSalary;
-                return View(e);
+                return View(Repository.GetEmployees.SingleOrDefault());
             }
             else
                 return View("Index");

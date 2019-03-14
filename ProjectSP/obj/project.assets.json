@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\ProjectSP\\ProjectSP.csproj",
+      "projectUniqueName": "D:\\git\\FirstProgramNetCore\\ProjectSP\\ProjectSP.csproj",
       "projectName": "ProjectSP",
-      "projectPath": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\ProjectSP\\ProjectSP.csproj",
+      "projectPath": "D:\\git\\FirstProgramNetCore\\ProjectSP\\ProjectSP.csproj",
       "packagesPath": "C:\\Users\\vanlo\\.nuget\\packages\\",
-      "outputPath": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\ProjectSP\\obj\\",
+      "outputPath": "D:\\git\\FirstProgramNetCore\\ProjectSP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

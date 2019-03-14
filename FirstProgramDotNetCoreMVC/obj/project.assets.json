@@ -12241,11 +12241,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC.csproj",
+      "projectUniqueName": "D:\\git\\FirstProgramNetCore\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC.csproj",
       "projectName": "FirstProgramDotNetCoreMVC",
-      "projectPath": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC.csproj",
+      "projectPath": "D:\\git\\FirstProgramNetCore\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC.csproj",
       "packagesPath": "C:\\Users\\vanlo\\.nuget\\packages\\",
-      "outputPath": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\FirstProgramDotNetCoreMVC\\obj\\",
+      "outputPath": "D:\\git\\FirstProgramNetCore\\FirstProgramDotNetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12264,8 +12264,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\ProjectSP\\ProjectSP.csproj": {
-              "projectPath": "D:\\Thuctap-tcx\\dotNET_CORE\\FirstProgramDotNetCoreMVC\\ProjectSP\\ProjectSP.csproj"
+            "D:\\git\\FirstProgramNetCore\\ProjectSP\\ProjectSP.csproj": {
+              "projectPath": "D:\\git\\FirstProgramNetCore\\ProjectSP\\ProjectSP.csproj"
             }
           }
         }
